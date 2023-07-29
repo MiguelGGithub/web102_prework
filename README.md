@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-!(image)[https://imgur.com/YGHSokX]
+!(image)[https://imgur.com/a/sRfn96t]
 
 GIF created with Xbox Game Bar
 
