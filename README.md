@@ -22,10 +22,10 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
+![Imgur Image](https://imgur.com/oCsoVg1)
 
-!(image)[https://imgur.com/a/sRfn96t]
 
-GIF created with Xbox Game Bar
+GIF created with LiceCap
 
 ## Notes
 
