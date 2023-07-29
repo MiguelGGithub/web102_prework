@@ -22,8 +22,8 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-![Imgur Image](https://imgur.com/oCsoVg1)
 
+<img src='https://imgur.com/oCsoVg1' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with LiceCap
 
