@@ -17,7 +17,10 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ x ] List anything else that you can get done to improve the app functionality!
+* [ x ] Functional Search Bar
+* [ x ] Arcade-themed font to match the theme of games
+* [ x ] Elements centering and positioning to center
+* [ x ] Navigation Bar allowing user to navigate through the page
 
 ## Video Walkthrough
 
